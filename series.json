@@ -3,187 +3,427 @@
     "title": "Les Nouvelles aventures de Batman",
     "year": 1997,
     "seasons": 2,
-    "episodes": 24
+    "episodes": 24,
+    "genres": [
+      "Action",
+      "Mystère",
+      "Animation",
+      "Kids"
+    ],
+    "studio": "The WB, Warner Bros. Animation, DC, Warner Bros. Television",
+    "plot": "Un dessin animé qui nous fait vivre les aventures de Batman et de ses partenaires. Toujours milliardaire le jour, Bruce Wayne devient chaque nuit Batman afin d'affronter à Gotham City ses ennemis avec l'aide de Robin, Batgirl et Nightwing.",
+    "poster": "images/Les%20Nouvelles%20aventures%20de%20Batman%20%281997%29-POSTER.thumb.jpg"
   },
   {
     "title": "Batman : La Série animée",
     "year": 1992,
     "seasons": 4,
-    "episodes": 85
+    "episodes": 85,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drame",
+      "Mystère"
+    ],
+    "studio": "FOX, Fox Kids, DC, Warner Bros. Television",
+    "plot": "Homme d'affaires le jour, Bruce Wayne devient Batman la nuit pour protéger Gotham City avec sa Batmobile. Avec l'aide de Robin et Batgirl il affronte de nombreux criminels légendaires.",
+    "poster": "images/Batman%20La%20S%C3%A9rie%20anim%C3%A9e%20%281992%29-POSTER.thumb.jpg"
   },
   {
     "title": "Demon Slayer : Kimetsu no Yaiba",
     "year": 2019,
     "seasons": 3,
-    "episodes": 44
+    "episodes": 44,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-Fiction"
+    ],
+    "studio": "Fuji TV, Gunma TV, Tokyo MX, BS11, Tokai Television Broadcasting, Kansai TV, Tochigi TV, Fukui TV, Hokkaido Cultural Broadcasting, Iwate Menkoi Television, TOS, Sendai Television, SAGA TV, Ishikawa TV, TNC, OHK, Kochi Sun Sun Broadcasting, Television Shin Hiroshima System, TV Shizuoka, UMK TV Miyazaki, NST, NBS, Sakuranbo TV, TSK, Ehime Broadcasting, KTS, Fukushima TV, NIB, KKT, AKT, Toyama Television, TV Kumamoto, Okinawa Television Broadcasting, ufotable, Aniplex, Shueisha",
+    "plot": "Tanjirô, un jeune et sympathique vendeur de charbon voit son quotidien changer radicalement après le massacre de sa famille par un démon. Seule sa petite sœur Nezuko survit à l’attaque, mais elle est transformée en un démon féroce. Ils partent tous deux en voyage afin de prendre leur revanche et de rendre à Nezuko son apparence d’origine. Vivez avec eux ce périple dans lequel le destin des humains et des démons s’entremêlent.",
+    "poster": "images/Demon%20Slayer%20Kimetsu%20no%20Yaiba%20%282019%29-POSTER.thumb.jpg"
   },
   {
     "title": "A Knight of the Seven Kingdoms",
     "year": 2026,
     "seasons": 1,
-    "episodes": 3
+    "episodes": 3,
+    "genres": [
+      "Drame",
+      "Science-Fiction"
+    ],
+    "studio": "HBO",
+    "plot": "72 ans après les événements de \"House of the Dragon\" et 90 ans avant \"Game of Thrones\", à une époque où la lignée Targaryen détient toujours le trône de fer, de grands destins, de puissants ennemis et de dangereuses aventures attendent un improbable duo : le jeune chevalier naïf mais courageux \"Dunk\", alias Ser Duncan le Grand, dont Brienne est une descendante, et \"Egg\", son ami écuyer.",
+    "poster": "images/A%20Knight%20of%20the%20Seven%20Kingdoms%20%282026%29-POSTER.thumb.jpg"
   },
   {
     "title": "Malédiction !",
     "year": 2023,
     "seasons": 2,
-    "episodes": 20
+    "episodes": 20,
+    "genres": [
+      "Animation",
+      "Kids",
+      "Action",
+      "Science-Fiction",
+      "Familial"
+    ],
+    "studio": "Apple TV, DreamWorks Animation Television, Sunday Night Productions",
+    "plot": "Les Vandehouven sont une famille comme les autres... jusqu'au jour où Alex, le père, est maudit et changé en statue. Afin de le sauver, sa femme et ses enfants n'ont d'autre choix que de s'embarquer dans des aventures frissonnantes pour restituer des artefacts volés par l'un de leurs ancêtres.",
+    "poster": "images/Mal%C3%A9diction%20%21%20%282023%29-POSTER.thumb.jpg"
   },
   {
     "title": "Command Z",
     "year": 2023,
     "seasons": 1,
-    "episodes": 8
+    "episodes": 8,
+    "genres": [
+      "Comédie",
+      "Science-Fiction"
+    ],
+    "studio": "Extension 765, Singani 63",
+    "poster": "images/Command%20Z%20%282023%29-POSTER.thumb.jpg"
   },
   {
     "title": "Arcane",
     "year": 2021,
     "seasons": 1,
-    "episodes": 9
+    "episodes": 9,
+    "genres": [
+      "Animation",
+      "Action"
+    ],
+    "studio": "Netflix, Fortiche Production, Riot Games",
+    "plot": "Championnes de leurs villes jumelles et rivales, deux sœurs se battent dans une guerre où font rage des technologies magiques et des perspectives diamétralement opposées.",
+    "poster": "images/Arcane%20%282021%29-POSTER.thumb.jpg"
   },
   {
     "title": "Patrick Melrose",
     "year": 2018,
     "seasons": 1,
-    "episodes": 5
+    "episodes": 5,
+    "genres": [
+      "Drame"
+    ],
+    "studio": "Showtime, Little Island Productions, Two Cities Television, SunnyMarch, Rachael Horovitz Productions",
+    "plot": "Coureur de jupons alcoolique et narcissique, Patrick Melrose est un pur produit de l'aristocratie britannique. Cet homme aux tendances schizophrènes et suicidaires a connu une enfance privilégiée mais profondément traumatisante, au sein d'une famille pour le moins dysfonctionnelle. Le décès de son père tyrannique va très vite faire remonter à la surface de pénibles souvenirs...",
+    "poster": "images/Patrick%20Melrose%20%282018%29-POSTER.thumb.jpg"
   },
   {
     "title": "Loups Garous",
     "year": 2024,
     "seasons": 2,
-    "episodes": 18
+    "episodes": 18,
+    "genres": [
+      "Télé Réalité"
+    ],
+    "studio": "Canal+, Asmodee, JAAD Productions, Flab Prod",
+    "plot": "\"Les Loups-Garous de Thiercelieux\", le jeu de société français le plus vendu au monde, est réinventé comme jamais auparavant : CANAL+ transforme ce jeu culte en une expérience sociale grandeur nature. Treize joueurs, spécialistes en stratégie et en dissimulation, s’affrontent en temps réel pour une partie de Loups Garous grandeur nature.",
+    "poster": "images/Loups%20Garous%20%282024%29-POSTER.thumb.jpg"
   },
   {
     "title": "Stranger Things",
     "year": 2016,
     "seasons": 1,
-    "episodes": 8
+    "episodes": 8,
+    "genres": [
+      "Science-Fiction",
+      "Mystère",
+      "Action"
+    ],
+    "studio": "Netflix, 21 Laps Entertainment, Monkey Massacre Productions, Upside Down Pictures",
+    "plot": "Quand un jeune garçon disparaît, une petite ville découvre une affaire mystérieuse, des expériences secrètes, des forces surnaturelles terrifiantes... et une fillette.",
+    "poster": "images/Stranger%20Things%20%282016%29-POSTER.thumb.jpg"
   },
   {
     "title": "Pluribus",
     "year": 2025,
     "seasons": 1,
-    "episodes": 5
+    "episodes": 5,
+    "genres": [
+      "Drame",
+      "Science-Fiction"
+    ],
+    "studio": "Apple TV, Sony Pictures Television, High Bridge Productions, Bristol Circle Entertainment",
+    "plot": "Alors que le bonheur menace la Terre, tous les espoirs reposent sur le plus malheureux des humains.",
+    "poster": "images/Pluribus%20%282025%29-POSTER.thumb.jpg"
   },
   {
     "title": "One-Punch Man",
     "year": 2015,
     "seasons": 1,
-    "episodes": 8
+    "episodes": 8,
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Action",
+      "Science-Fiction"
+    ],
+    "studio": "TV Tokyo, TV Aichi, TVQ, TV Osaka, TVh, TSC, Madhouse, J.C.STAFF, Bandai Visual, ADK, jeki, Shueisha, Lantis, Banpresto, Good Smile Company, ADK Marketing Solutions, Bandai Spirits, Bandai Namco Music Live, Bandai Namco Filmworks",
+    "plot": "Saitama vient d'essuyer un énième refus d'embauche… Dépité, il voit sa vie basculer lorsqu'un homme-crabe menace sous ses yeux un garçon à tête de cul ! Il le sauve, et c'est la révélation. Il devient super-héros ! Encore un ? Non pas vraiment. Lui, c'est un anti-héros complètement à côté de la plaque. Son super pouvoir est de terrasser n'importe quel ennemi en un seul coup de poing. Quel ennui d'être si puissant… Saitama parviendra-t-il à enfin retrouver l'extase du combat en rencontrant un adversaire à sa mesure ?!",
+    "poster": "images/One-Punch%20Man%20%282015%29-POSTER.thumb.jpg"
   },
   {
     "title": "Primal",
     "year": 2019,
     "seasons": 2,
-    "episodes": 20
+    "episodes": 20,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drame"
+    ],
+    "studio": "Adult Swim, Studio La Cachette, Williams Street, Cartoon Network Studios",
+    "plot": "L'amitié improbable entre un homme des cavernes à l'aube de l'évolution et un dinosaure dont l'espèce est sur le point de s'éteindre. Les deux s'unissent pour leur survie dans un monde primaire et violent.",
+    "poster": "images/Primal%20%282019%29-POSTER.thumb.jpg"
   },
   {
     "title": "Les Sœurs Grimm",
     "year": 2025,
     "seasons": 1,
-    "episodes": 6
+    "episodes": 6,
+    "genres": [
+      "Action",
+      "Science-Fiction",
+      "Animation"
+    ],
+    "studio": "Apple TV+, Titmouse, Per Capita Productions",
+    "plot": "Un an après la mystérieuse disparition de leurs parents, Sabrina et Daphné emménagent dans une ville magique où les contes de fées sont une réalité et où les secrets sont partout.",
+    "poster": "images/Les%20S%C5%93urs%20Grimm%20%282025%29-POSTER.thumb.jpg"
   },
   {
     "title": "ORELSAN : Montre jamais ça à personne",
     "year": 2021,
     "seasons": 1,
-    "episodes": 6
+    "episodes": 6,
+    "genres": [
+      "Documentaire"
+    ],
+    "studio": "Prime Video, Amazon Studios France",
+    "plot": "Au début des années 2000, Aurélien Cotentin est un jeune provincial de classe moyenne à l’avenir flou. Quand il se lance avec ses amis dans le rap, il n’a absolument rien pour réussir. Mais, suivi à la trace par la caméra de son petit frère, il va surmonter épreuves et polémiques pour redéfinir les contours du rap et devenir l’un des artistes français les plus populaires de sa génération.",
+    "poster": "images/ORELSAN%20Montre%20jamais%20%C3%A7a%20%C3%A0%20personne%20%282021%29-POSTER.thumb.jpg"
   },
   {
     "title": "Platonic",
     "year": 2023,
     "seasons": 1,
-    "episodes": 10
+    "episodes": 10,
+    "genres": [
+      "Comédie"
+    ],
+    "studio": "Apple TV+, Sony Pictures Television, Stoller Global Solutions, Point Grey Pictures",
+    "plot": "Deux anciens meilleurs amis se retrouvent après de nombreuses années. L'amitié dévorante des deux quadragénaires chamboule leurs vies de façon hilarante.",
+    "poster": "images/Platonic%20%282023%29-POSTER.thumb.jpg"
   },
   {
     "title": "Les Bad Guys cassent la baraque",
     "year": 2025,
     "seasons": 1,
-    "episodes": 9
+    "episodes": 9,
+    "genres": [
+      "Animation"
+    ],
+    "studio": "Netflix, DreamWorks Animation Television",
+    "plot": "Comment les Bad Guys sont-ils devenus des bandits de haut vol ? Toutes les réponses se trouvent dans cette série hilarante, située avant les films à succès.",
+    "poster": "images/Les%20Bad%20Guys%20cassent%20la%20baraque%20%282025%29-POSTER.thumb.jpg"
   },
   {
     "title": "Saint Seiya - The Lost Canvas",
     "year": 2009,
     "seasons": 1,
-    "episodes": 26
+    "episodes": 26,
+    "genres": [
+      "Animation",
+      "Action",
+      "Drame"
+    ],
+    "studio": "TMS Entertainment",
+    "plot": "Depuis les temps mythologiques, la déesse Athéna et le seigneur des Enfers Hadès s'affrontent lors de \"Guerres Saintes\". Notre histoire se déroule au 18e siècle, bien avant les événements de Saint Seiya (Les Chevaliers du Zodiaque) durant lesquels Seiyar et ses compagnons ont combattu Hadès aux côtés d'Athéna.  Le rideau se lève sur une aventure inédite où s'entremêlent les destins du Chevalier Pégase, du seigneur des Enfers Hadès, et de la déesse Athéna de l'époque, sur fond de Guerre Sainte !",
+    "poster": "images/Saint%20Seiya%20-%20The%20Lost%20Canvas%20%282009%29-POSTER.thumb.jpg"
   },
   {
     "title": "Saint Seiya - Chapitre Hadès",
     "year": 2002,
     "seasons": 4,
-    "episodes": 31
+    "episodes": 31,
+    "genres": [
+      "Action",
+      "Animation"
+    ],
+    "studio": "Toei Animation",
+    "plot": "Le vieux maitre sent que le sceau maintenant en captivité les 108 étoiles maléfiques, est sur le point de se rompre. Au sanctuaire, Shaina découvre que les tombes des chevaliers d'or sont vides. Au temple du Bélier, Mu rencontre un mystérieux homme vêtu de noir qui lui ordonne de tuer Athéna dans les 12 heures.  Ces événements seraient-ils le signe du début d'une nouvelle guerre sainte?",
+    "poster": "images/Saint%20Seiya%20-%20Chapitre%20Had%C3%A8s%20%282002%29-POSTER.thumb.jpg"
   },
   {
     "title": "Saint Seiya : Les Chevaliers du Zodiaque",
     "year": 1986,
     "seasons": 1,
-    "episodes": 73
+    "episodes": 73,
+    "genres": [
+      "Animation",
+      "Drame",
+      "Action",
+      "Science-Fiction",
+      "Familial"
+    ],
+    "studio": "tv asahi / Toei Animation",
+    "plot": "Selon la légende, des jeunes guerriers investis de grands pouvoirs étaient chargés de protéger Athéna, la Déesse de la Guerre. Des années après, c'est désormais la princesse Saori Kido, réincarnation de la Déesse, qui doit recevoir une protection. Cent jeunes orphelins sont alors envoyés à travers le monde suivre une éprouvante formation de chevaliers sacrés. Une fois ces épreuves passées, ils recoivent des armures célestes les plaçant chacun sous la protection d'une constellation. Mais, les combats ne font que commencer...",
+    "poster": "images/Saint%20Seiya%20Les%20Chevaliers%20du%20Zodiaque%20%281986%29-POSTER.thumb.jpg"
   },
   {
     "title": "Pluto",
     "year": 2023,
     "seasons": 1,
-    "episodes": 8
+    "episodes": 8,
+    "genres": [
+      "Animation",
+      "Science-Fiction",
+      "Mystère",
+      "Crime"
+    ],
+    "studio": "Netflix, GENCO, Studio M2, NetEase Games",
+    "plot": "Lorsque les sept robots les plus évolués et leurs alliés humains sont assassinés l'un après l'autre, l'inspecteur Gesicht réalise qu'il est lui aussi en danger.",
+    "poster": "images/Pluto%20%282023%29-POSTER.thumb.jpg"
   },
   {
     "title": "Scavengers Reign",
     "year": 2023,
     "seasons": 1,
-    "episodes": 12
+    "episodes": 12,
+    "genres": [
+      "Science-Fiction",
+      "Drame",
+      "Animation"
+    ],
+    "studio": "Max, Titmouse, Green Street Pictures",
+    "plot": "La série suit les survivants du cargo interstellaire endommagé Demeter 227 qui se sont échoués sur Vesta, une planète extraterrestre riche en faune et en flore, mais pleine de dangers.",
+    "poster": "images/Scavengers%20Reign%20%282023%29-POSTER.thumb.jpg"
   },
   {
     "title": "Veneno",
     "year": 2020,
     "seasons": 1,
-    "episodes": 8
+    "episodes": 8,
+    "genres": [
+      "Drame"
+    ],
+    "studio": "Atresplayer, Atresmedia, Suma Latina, Apaches Films",
+    "plot": "Valeria, une apprentie journaliste, part à la rencontre d'une légende déchue. Elle s'appelle la Veneno, une ancienne star trans qui a secoué l'Espagne à la fin des années 1990. Elle raconte son parcours d'excès, de noirceur et d'extravagances et éclaire Valeria sur sa propre identité.",
+    "poster": "images/Veneno%20%282020%29-POSTER.thumb.jpg"
   },
   {
     "title": "Rick et Morty",
     "year": 2013,
     "seasons": 8,
-    "episodes": 81
+    "episodes": 81,
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Science-Fiction",
+      "Action"
+    ],
+    "studio": "Adult Swim, Williams Street, Harmonious Claptrap, Justin Roiland's Solo Vanity Card Productions, Starburns Industries, Green Portal Productions",
+    "plot": "Un brillant inventeur et son petit fils un peu à l'Ouest partent à l'aventure...",
+    "poster": "images/Rick%20et%20Morty%20%282013%29-POSTER.thumb.jpg"
   },
   {
     "title": "Poker Face",
     "year": 2023,
     "seasons": 1,
-    "episodes": 12
+    "episodes": 12,
+    "genres": [
+      "Mystère",
+      "Crime"
+    ],
+    "studio": "Peacock, Animal Pictures, MRC, T-Street, Zucks.",
+    "plot": "Engagée dans un long périple au volant de sa Plymouth Barracuda, Charlie Cale rencontre de nouvelles personnes à chaque arrêt et ne peut s’empêcher de résoudre des crimes grâce à une extraordinaire capacité à repérer lorsque quelqu’un ment.",
+    "poster": "images/Poker%20Face%20%282023%29-POSTER.thumb.jpg"
   },
   {
     "title": "Polar Park",
     "year": 2023,
     "seasons": 1,
-    "episodes": 6
+    "episodes": 6,
+    "genres": [
+      "Mystère",
+      "Comédie",
+      "Crime"
+    ],
+    "studio": "ARTE, 2.4.7 MAX",
+    "plot": "De retour dans son village natal, un célèbre auteur de polars se retrouve embarqué sur les traces d’un serial killer à l’imagination retorse. Un gendarme cartésien qui se rêve agent du FBI l’accompagne dans son enquête.",
+    "poster": "images/Polar%20Park%20%282023%29-POSTER.thumb.jpg"
   },
   {
     "title": "The Leftovers",
     "year": 2014,
     "seasons": 3,
-    "episodes": 28
+    "episodes": 28,
+    "genres": [
+      "Science-Fiction",
+      "Drame"
+    ],
+    "studio": "HBO, Warner Bros. Television, White Rabbit, Film 44",
+    "plot": "Le 14 octobre 2011, deux pour cent des êtres humains ont disparu de la surface de la Terre de manière inexplicable. Les habitants de la petite ville de Mapleton sont confrontés à cette disparition lorsque nombre de leurs voisins, amis et amants s'évanouissent dans la nature en un instant. Trois ans plus tard, la vie a repris son cours dans la bourgade dépeuplée, mais rien n'est plus comme avant. Personne n'a oublié ce qu'il s'est passé ni ceux qui ont disparu. Certains tentent de comprendre, d'autres d'oublier, ou de se souvenir. Chacun va devoir faire face à l'effondrement de ses croyances, au deuil.",
+    "poster": "images/The%20Leftovers%20%282014%29-POSTER.thumb.jpg"
   },
   {
     "title": "Votre fidèle serviteur Spider-Man",
     "year": 2025,
     "seasons": 1,
-    "episodes": 10
+    "episodes": 10,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-Fiction",
+      "Comédie"
+    ],
+    "studio": "Disney+, Marvel Studios",
+    "plot": "Peter Parker est en passe de devenir un héros, mais le chemin pour y parvenir n'a rien d'ordinaire.",
+    "poster": "images/Votre%20fid%C3%A8le%20serviteur%20Spider-Man%20%282025%29-POSTER.thumb.jpg"
   },
   {
     "title": "Masters of the Air",
     "year": 2024,
     "seasons": 1,
-    "episodes": 9
+    "episodes": 9,
+    "genres": [
+      "Drame",
+      "Guerre"
+    ],
+    "studio": "Apple TV+, Amblin Television, Playtone, Apple Studios",
+    "plot": "Pendant la Seconde Guerre mondiale, des pilotes de chasse risquent leur vie au sein du 100e groupe de bombardement, une confrérie unie par le courage, les défaites et les victoires.",
+    "poster": "images/Masters%20of%20the%20Air%20%282024%29-POSTER.thumb.jpg"
   },
   {
     "title": "Dragon Ball DAIMA",
     "year": 2024,
     "seasons": 1,
-    "episodes": 17
+    "episodes": 17,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comédie",
+      "Science-Fiction"
+    ],
+    "studio": "Fuji TV / Tokai Television Broadcasting / Kansai TV / Fukui TV / Hokkaido Cultural Broadcasting / Iwate Menkoi Television / Sendai Television / SAGA TV / Ishikawa TV / TNC / OHK / Kochi Sun Sun Broadcasting / Television Shin Hiroshima System / TV Shizuoka / NST / NBS / Sakuranbo TV / TSK / Ehime Broadcasting / KTS / Fukushima TV / NIB / KKT / AKT / Toyama Television / Okinawa Television Broadcasting / Toei Animation",
+    "plot": "Goku et ses amis menaient une vie paisible quand, tout à coup, ils redeviennent petits ! Ils découvrent que l’origine de cette conspiration trouve sa source dans un monde connu sous le nom du “Royaume des Démons\". C’est alors qu'apparaît un jeune et mystérieux Majin nommé Glorio...",
+    "poster": "images/Dragon%20Ball%20DAIMA%20%282024%29-POSTER.thumb.jpg"
   },
   {
     "title": "Astérix & Obélix : Le Combat des chefs",
     "year": 2025,
     "seasons": 1,
-    "episodes": 5
+    "episodes": 5,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comédie",
+      "Kids",
+      "Science-Fiction"
+    ],
+    "studio": "Netflix, Les Éditions Albert René, TAT Productions, Légende Films",
+    "plot": "Alors que Panoramix a oublié la recette de la potion magique, Astérix et Obélix doivent repousser César, qui compte bien arriver à ses fins grâce à une loi gauloise.",
+    "poster": "images/Ast%C3%A9rix%20%26%20Ob%C3%A9lix%20Le%20Combat%20des%20chefs%20%282025%29-POSTER.thumb.jpg"
   },
   {
     "title": "Adolescence",
@@ -194,240 +434,551 @@
     "title": "Made In Abyss",
     "year": 2017,
     "seasons": 1,
-    "episodes": 13
+    "episodes": 13,
+    "genres": [
+      "Animation",
+      "Drame",
+      "Action",
+      "Science-Fiction"
+    ],
+    "studio": "AT-X, Kinema Citrus",
+    "plot": "Au pied de la ville d’Orse s’étend l’abysse, une faille gigantesque à la profondeur inconnue habitée par d’étranges créatures et emplie d’antiques reliques. Depuis des années, ce gouffre attire de nombreux aventuriers séduits par l’aura de mystère qui l’entoure. On les appelle « les caverniers ». C’est ici que vit Rico, une jeune orpheline obsédée par l’Abysse et désirant marcher dans les traces de sa mère. Un jour, lors de ses prospections, elle découvre le corps inanimé d’un jeune garçon. Elle n’imagine alors pas à quel point cette découverte va changer sa vie et accélérer son destin...",
+    "poster": "images/"
   },
   {
     "title": "Community",
     "year": 2009,
     "seasons": 6,
-    "episodes": 96
+    "episodes": 96,
+    "genres": [
+      "Comédie"
+    ],
+    "studio": "NBC, Yahoo! Screen, Krasnoff / Foster Entertainment, Universal Media Studios, Dan Harmon / Russo Brothers, Harmonious Claptrap, Sony Pictures Television, Universal Television",
+    "plot": "Jeff est avocat. Mais Jeff doit surtout retourner à l'université car son certificat a été invalidé. Entre les femmes au foyer fraîchement divorcées et ceux qui reprennent les études pour garder leur esprit actif, Jeff intègre une bande de joyeux drilles qui découvre les joies de la vie sur le campus. Ils en apprennent plus sur eux-mêmes que sur les cours qu'ils suivent…",
+    "poster": "images/Community%20%282009%29-POSTER.thumb.jpg"
   },
   {
     "title": "Pixar Short Films Collection",
     "year": 1984,
     "seasons": 3,
-    "episodes": 33
+    "episodes": 33,
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Action",
+      "Familial"
+    ],
+    "studio": "Pixar",
+    "poster": "images/"
   },
   {
     "title": "Le Monde fou de Tex Avery",
     "year": 1997,
     "seasons": 3,
-    "episodes": 132
+    "episodes": 132,
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Familial"
+    ],
+    "studio": "YTV, Syndication, DiC Entertainment, Les Studios Tex SARL, M6, Telcima SA",
+    "plot": "Dans le monde fou de Tex Avery, les histoires se suivent et ne se ressemblent pas. Au fil des épisodes, l’univers du créateur se décline sous la forme d’aventures aussi diverses que celles du pseudo-savant Einstone, Ghenghis le lion avec Kannie le petit panda, Maurice et Moutch, Phil Pompéi le centurion et Dan l’embrouille, Pile Poil, Freddy la mouche et sa baronne ou même Tex Avery, sous les traits d’un petit cow-boy.",
+    "poster": "images/Le%20Monde%20fou%20de%20Tex%20Avery%20%281997%29-POSTER.thumb.jpg"
   },
   {
     "title": "Hajime no Ippo : The Fighting",
     "year": 2000,
     "seasons": 3,
-    "episodes": 49
+    "episodes": 49,
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Drame",
+      "Action"
+    ],
+    "studio": "Nippon TV / Madhouse / MAPPA",
+    "plot": "Ippo est un jeune lycéen de 16 ans qui n'a pas d'amis car il occupe tous son temps libre à aider sa mère pour tenir son affaire de pêche. Mais il ne sait pas encore qu'un prestigieux destin l'attend ; alors qu'il se faisait martyriser par la bande d'Amezawa, Takamura (un grand boxeur japonais) vient lui porter secours. Les voyous hors d'état de nuire Takamura emmène le jeune lycéen dans son club de boxe. Ippo remis sur pied, Takamura lui proposera de se défouler sur un sac du club avec un dessin de Furyô dessus. Là se révélera une grande force et Ippo se découvrira une passion pour la boxe. Après avoir visionné une cassette et passé le test de Takamura avec brio, il entrera dans le club de boxe de Kamogawa. À la surprise générale il tiendra tête à l'un des génies du club de boxe ce qui va attirer l'attention de l’entraîneur du club.",
+    "poster": "images/"
   },
   {
     "title": "Dragon Ball Super",
     "year": 2015,
     "seasons": 1,
-    "episodes": 33
+    "episodes": 33,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-Fiction",
+      "Familial"
+    ],
+    "studio": "Fuji TV, Toei Company, Toei Animation, Fuji Television Network, Fizz Sound Creation",
+    "plot": "Après le combat contre Boo, la Terre connait une période de paix. Cependant, le dieu de la destruction, Beerus, vient de se réveiller d'un sommeil de 39 ans avec l'intention d'affronter le Super Saïyen Divin, le guerrier légendaire dont parle une ancienne prophétie exprimée par le Poisson Oracle.",
+    "poster": "images/"
   },
   {
     "title": "Les 30 dernières minutes",
     "year": 1998,
     "seasons": 1,
-    "episodes": 16
+    "episodes": 16,
+    "plot": "Série racontant la journée précédant le tournage d'une émission de télévision minable sans budget, avec la difficulté de trouver un invité et autres.",
+    "poster": "images/Les%2030%20derni%C3%A8res%20minutes%20%281998%29-POSTER.thumb.jpg"
   },
   {
     "title": "Bref",
     "year": 2011,
     "seasons": 2,
-    "episodes": 60
+    "episodes": 60,
+    "genres": [
+      "Comédie"
+    ],
+    "studio": "Canal+ / FKLG / My Box",
+    "plot": "Un trentenaire au chômage, obsédé par une fille rencontrée en soirée, fait part de ses états d'âme et de ses réflexions sur les problèmes du quotidien.",
+    "poster": "images/Bref%20%282011%29-POSTER.thumb.jpg"
   },
   {
     "title": "Casting(s)",
     "year": 2013,
     "seasons": 4,
-    "episodes": 40
+    "episodes": 40,
+    "genres": [
+      "Comédie"
+    ],
+    "studio": "Canal+ / Zazi Films",
+    "plot": "Casting(s) est une shortcom télévisée française créée par Pierre Niney et Ali Marhyar, écrite par Ali Marhyar, Igor Gotesman et Pierre Niney, produite par Hugo Gélin pour Zazi Films et diffusée depuis le 7 septembre 2013 sur Canal+ en clair.\n\nUn directeur de casting fait répéter des comédiens pour différents projets de film.",
+    "poster": "images/"
   },
   {
     "title": "Dragon Ball",
     "year": 1986,
     "seasons": 1,
-    "episodes": 153
+    "episodes": 153,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-Fiction",
+      "Familial"
+    ],
+    "studio": "Fuji TV / Toei Animation / Cloverway / Inc.",
+    "plot": "Son Goku est un jeune garçon naïf et pur doté d'une queue de singe et d'une force extraordinaire. Il vit seul après le décès de son grand-père adoptif sur une montagne et en pleine nature ayant les caractéristiques d'une jungle. Un jour, il rencontre Bulma, une jeune fille de la ville très intelligente. Elle est à la recherche des sept boules de cristal légendaires appelées Dragon Balls. Dispersées sur Terre, ces Dragon Balls, une fois réunies, font apparaître Shenron, le Dragon sacré, qui exauce le souhait de celui qui l'a appelé. Amadoué, Son Goku accepte d'aider Bulma à retrouver les boules. Au cours de leur parcours initiatique, ils font de nombreuses rencontres. Son Goku, qui n'était jamais sorti de sa forêt, est amené à suivre un apprentissage auprès de maîtres comme Kamé Sennin ou Maître Karin et à participer à plusieurs championnats du monde d'arts martiaux.",
+    "poster": "images/Dragon%20Ball%20%281986%29-POSTER.thumb.jpg"
   },
   {
     "title": "Shaun le mouton",
     "year": 2007,
     "seasons": 2,
-    "episodes": 80
+    "episodes": 80,
+    "genres": [
+      "Animation",
+      "Comédie",
+      "Familial"
+    ],
+    "studio": "CBBC / Aardman",
+    "plot": "Cette série met en scène de Shaun, un mouton malicieux qui vit dans une ferme en compagnie de ses amis ovins nettement moins malins que lui, mais toujours prêts à le suivre dans une nouvelle aventure.",
+    "poster": "images/"
   },
   {
     "title": "Ulysse 31",
     "year": 1981,
     "seasons": 1,
-    "episodes": 26
+    "episodes": 26,
+    "genres": [
+      "Animation",
+      "Science-Fiction",
+      "Familial"
+    ],
+    "studio": "France 3 / CLT / Tokyo Movie Shinsha / DIC",
+    "plot": "Le XXXIe siècle. C’est parce qu’Ulysse avait terrassé le Cyclope, et ainsi sauvé Télémaque, Thémis et Noumaïos, que les dieux de l’Olympe imaginèrent cette terrible vengeance : « Quiconque ose défier la puissance de Zeus doit être puni ! Tu erreras désormais dans un monde inconnu. Jusqu’au royaume d’Hadès, vos corps resteront inertes… ».",
+    "poster": "images/"
   },
   {
     "title": "L'Attaque des Titans",
     "year": 2013,
     "seasons": 1,
-    "episodes": 1
+    "episodes": 1,
+    "genres": [
+      "Animation",
+      "Science-Fiction",
+      "Action"
+    ],
+    "studio": "MBS / NHK G / Tokyo MX / Production I.G / MAPPA / WIT STUDIO / Pony Canyon / Techno Sound / Kodansha / dentsu / Pony Canyon Enterprise",
+    "plot": "Dans un monde ravagé par des titans mangeurs d’homme depuis plus d’un siècle, les rares survivants de l’Humanité n’ont d’autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren, témoin de la mort de sa mère dévorée par un titan, n’a qu’un rêve : entrer dans le corps d’élite chargé de découvrir l’origine des titans, et les annihiler jusqu’au dernier…",
+    "poster": "images/"
   },
   {
     "title": "Cowboy Bebop",
     "year": 1998,
     "seasons": 1,
-    "episodes": 26
+    "episodes": 26,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-Fiction",
+      "Western"
+    ],
+    "studio": "TV Tokyo / WOWOW Prime / SUNRISE / Bandai Visual / Sound Box",
+    "plot": "2071. Suite à un accident survenu sur la Lune, la vie sur la planète Terre est devenue impossible. Les Humains ont dû partir, coloniser d'autres planètes. Cet exode a créé un chaos dans tout l'univers, laissant une totale liberté aux criminels les plus dangereux. Un vrai terrain de jeu pour les chasseurs de primes. Parmi cette clique : le Bebop, un vaisseau spatial abritant Spike Spiegel et Jet...",
+    "poster": "images/"
   },
   {
     "title": "Death Parade",
     "year": 2015,
     "seasons": 1,
-    "episodes": 10
+    "episodes": 10,
+    "genres": [
+      "Animation",
+      "Drame",
+      "Mystère"
+    ],
+    "studio": "Nippon TV / Madhouse",
+    "plot": "L'histoire consiste en une succession de deux personnes qui viennent d’atterrir dans un bar à l’ambiance sombre. Sans méfiance, ils ne savent pas encore qu'ils sont entrés dans un jeu mortel. En effet, ils ne savent absolument plus comment ils ont atterris ici… Decim, le barman, et son assistante leur expliquent alors qu’il va falloir qu'ils jouent à un jeu de bar (fléchettes, bowling, billards, etc.) et mettre leur vie en jeu afin de peut-être comprendre ce qui leur est arrivé.",
+    "poster": "images/"
   },
   {
     "title": "Fate/stay night",
     "year": 2006,
     "seasons": 1,
-    "episodes": 24
+    "episodes": 24,
+    "genres": [
+      "Animation",
+      "Science-Fiction",
+      "Action"
+    ],
+    "studio": "Teletama / Studio Deen",
+    "plot": "Tous les dix ans, sept magiciens s'affrontent avec leur servant dans une guerre secrète afin de posséder le Saint Graal. À l'issue de ce combat, le magicien vainqueur aura le droit de voir un souhait exaucé. Emiya Shiro est un jeune lycéen ordinaire si ce n est qu'il est l'enfant adoptif d'un magicien très puissant décédé. Emiya ne possède pas le talent de son père mais cultive un pouvoir bien spécifique, celui de pouvoir réparer les objets. Seulement, le jour où il se retrouve aux prises d'un combat opposant deux magiciens, il va réveiller le pouvoir qui sommeille en lui sous la forme d'une jeune femme à la beauté aussi dévastatrice que sa puissance : Saber. L'ordre des sept magiciens est désormais réuni, la guerre peut commencer.",
+    "poster": "images/"
   },
   {
     "title": "Fate/Zero",
     "year": 2011,
     "seasons": 2,
-    "episodes": 24
+    "episodes": 24,
+    "genres": [
+      "Action",
+      "Animation",
+      "Science-Fiction"
+    ],
+    "studio": "Gunma TV / Tokyo MX / ufotable / Aniplex / Seikaisha / TYPE-MOON / Nitroplus",
+    "plot": "Fate/Zero se déroule dix ans avant les évènements de Fate/stay Night qui raconte en détails ce qui s'est passé lors de la quatrième guerre du Saint Graal dans la ville de Fuyuki. À la suite de trois guerres sans vainqueurs, la quatrième guerre débute enfin…\n\nCette guerre se fait affronter par les familles Einzbern, Matō, et Tōsaka depuis des siècles. Bien que Kiritsugu qui est au côté de Saber, ait longtemps désiré être un héros aux yeux de tous, il a définitivement abandonné le Saint Graal lorsqu'il a réalisé que ceci entraînait forcément la mort d'une autre vie. Pour le bien de l'humanité, il sera prêt à détruire quiconque se mettra en travers de la paix.",
+    "poster": "images/"
   },
   {
     "title": "Fullmetal Alchemist : Brotherhood",
     "year": 2009,
     "seasons": 1,
-    "episodes": 64
+    "episodes": 64,
+    "genres": [
+      "Action",
+      "Animation",
+      "Science-Fiction",
+      "Comédie",
+      "Drame"
+    ],
+    "studio": "MBS / TBS / CBC / SBS / BONES / Aniplex / Square Enix / Techno Sound",
+    "plot": "Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist.\n\nMais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
+    "poster": "images/"
   },
   {
     "title": "Gankutsuou - Le comte de Monte-Cristo",
     "year": 2004,
     "seasons": 1,
-    "episodes": 24
+    "episodes": 24,
+    "genres": [
+      "Animation",
+      "Drame",
+      "Mystère",
+      "Science-Fiction"
+    ],
+    "studio": "tv asahi / GONZO",
+    "plot": "Albert, fils d'une noble famille originaire de Paris par à l'aventure avec son amis Franz pour s'échapper de sa vie ennuyeuse. Il rencontre un noble homme très riche, le comte de Monte Cristo. Vivant dans de riches et luxuriants hôtels, accompagné de belles femmes, l'énigmatique compte fascine Albert par son savoir. Celui-ci décide alors d'inviter le comte à Paris pour joindre la haute société. Mais ce qu'Albert ne sait pas, c'est que son père a auparavant privé le comte de sa fiancée…",
+    "poster": "images/"
   },
   {
     "title": "Ghost in the Shell : Stand Alone Complex",
     "year": 2002,
     "seasons": 2,
-    "episodes": 52
+    "episodes": 52,
+    "genres": [
+      "Action",
+      "Animation",
+      "Crime",
+      "Science-Fiction"
+    ],
+    "studio": "ANIMAX / Production I.G / Bandai Visual / Bandai Entertainment / dentsu / JVCKenwood Victor Entertainment / Nippon Television Network Corporation / Tokuma Shoten / Magna Entertainment",
+    "plot": "Dans le futur, quand les améliorations technologiques du corps et la robotique sont devenues une façon de vivre, le Major Motoko Kusanagi et la section 9 s'occupent de missions trop difficiles pour la police. La section 9 emploie des hackers, tireurs d'élite, détectives et cyborgs, dans le but de contrecarrer les cybercriminels et leurs plans visant les innocents.",
+    "poster": "images/"
   },
   {
     "title": "Ghost In The Shell: Arise - Alternative Architecture",
     "year": 2015,
     "seasons": 1,
-    "episodes": 10
+    "episodes": 10,
+    "genres": [
+      "Animation",
+      "Crime",
+      "Action",
+      "Science-Fiction"
+    ],
+    "studio": "Tokyo MX / Production I.G",
+    "plot": "Ghost in the Shell Arise: Alternative Architecture est la version TV de Ghost in the Shell Arise. Il contiendra deux épisodes inédit lié à celle-ci et sera aussi chargé d'introduire le film d'animation qui sortira en été 2015 : Ghost in The Shell The New Movie.",
+    "poster": "images/"
   },
   {
     "title": "Lastman",
     "year": 2016,
     "seasons": 1,
-    "episodes": 26
+    "episodes": 26,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-Fiction"
+    ],
+    "studio": "France 4 / France TV Slash / Everybody on Deck / Je suis bien content / Tchack",
+    "plot": "Paxtown, capitale corrompue, déchirée par les inégalités et rongée par la mafia. Dans cette mégapole pourrie, Richard Aldana, démerdard, sans attache ni ambition, est boxeur à ses heures. Mais tout ça, c'était avant que tout ne bascule. Du jour au lendemain, Aldana se retrouve avec la charge de Siri, une gamine prise pour cible par « L'Ordre du Lion », une secte religieuse qui pense que la jeune fille est la clef vers leur « autre monde ».",
+    "poster": "images/"
   },
   {
     "title": "Monster",
     "year": 2004,
     "seasons": 1,
-    "episodes": 74
+    "episodes": 74,
+    "genres": [
+      "Animation",
+      "Drame",
+      "Crime",
+      "Mystère"
+    ],
+    "studio": "Nippon TV / Shogakukan Production / Madhouse / VAP",
+    "plot": "Kenzo Tenma est un médecin japonais travaillant en Allemagne. En 1986, il décide de sauver la vie d'un jeune garçon, désobéissant ainsi aux ordres de son directeur qui lui demandait de sauver en priorité celle du maire de la ville. Quelques jours plus tard, le directeur et deux autres responsables de l'hôpital sont empoisonnés. \n\nNeuf ans sont passées, en 1995, un événement similaire se produit et oblige Tenma à fuir. Sa fuite et sa quête de justice vont l'amener à découvrir une horrible vérité. Le jeune garçon qu'il avait sauvé dix plus tôt est en fait un véritable monstre : un être brillant, beau, mais avant tout un terrifiant tueur...",
+    "poster": "images/"
   },
   {
     "title": "Les Mystérieuses Cités d'or",
     "year": 1982,
     "seasons": 2,
-    "episodes": 64
+    "episodes": 64,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-Fiction",
+      "Familial"
+    ],
+    "studio": "NHK G / Pierrot / DIC / NHK",
+    "plot": "Le XVIe siècle. Des quatre coins de l'Europe, de gigantesques voiliers partent à la conquête du Nouveau Monde. À bord de ces navires, des hommes avides de rêves, d'aventure et d'espace, à la recherche de fortune. Qui n'a jamais rêvé de ces mondes souterrains, de ces mers lointaines peuplées de légendes ou d'une richesse soudaine qui se conquérait au détour d'un chemin de la Cordillère des Andes ? Qui n'a jamais souhaité voir le soleil souverain guider ses pas, au cœur du pays Inca, vers la richesse et l'histoire des mystérieuses cités d'or ?",
+    "poster": "images/"
   },
   {
     "title": "Pokémon",
     "year": 1997,
     "seasons": 1,
-    "episodes": 42
+    "episodes": 42,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science-Fiction",
+      "Familial"
+    ],
+    "studio": "TV Tokyo / TV Aichi / TVQ / TV Osaka / TVh / TSC / Shogakukan Production / OLM / Shogakukan-Shueisha Productions / TV Tokyo Medianet / SOFTX",
+    "plot": "L'histoire suit les aventures d'un jeune garçon nommé Sacha dont le but est de devenir un jour Maître Pokémon. Pour cela, il va faire connaissance d'un Pikachu à très mauvais caractère au début, mais qui va vite devenir par la suite son meilleur ami.\n\nSacha va aussi rencontrer d'autres dresseurs avec qui il partagera ses aventures. Lors de son voyage dans plusieurs régions, il va devoir continuer à progresser pour découvrir de nouveaux Pokémon et peut-être les capturer. Et avec ces derniers comme amis, il va aussi devoir affronter des groupes de bandits, surtout la Team Rocket. Mais il va aussi faire face à d'autres personnes malintentionnées.\n\nHeureusement, Sacha peut compter sur ses amis pour l'aider. Ensemble et parfois avec d'autres personnages en plus, la grande quête leur réservera bien des surprises...",
+    "poster": "images/"
   },
   {
     "title": "SAMURAI 7",
     "year": 2004,
     "seasons": 1,
-    "episodes": 26
+    "episodes": 26,
+    "genres": [
+      "Action",
+      "Animation",
+      "Drame",
+      "Science-Fiction"
+    ],
+    "studio": "ANIMAX / GONZO",
+    "plot": "Dans le petit village paisible de Kanna où les habitant cultivent principalement du riz, des bandits viennent récupérer le riz comme à chaque récolte. Mais en plus de prendre le riz des villageois, les bandits enlèvent désormais certaines femmes du village. Les paysans, ne pouvant plus vivre de la sorte, ils font appel à des samurais pour les défendre. Rikichi un paysan accompagné de Kirara la prêtresse du village partent alors en ville à la recherche de samurais. Mais la tache n'est pas facile étant donné qu'ils n'ont que du riz à offrir à ces samurais en récompense.",
+    "poster": "images/"
   },
   {
     "title": "Samurai Champloo",
     "year": 2004,
     "seasons": 1,
-    "episodes": 26
+    "episodes": 26,
+    "genres": [
+      "Action",
+      "Animation",
+      "Comédie",
+      "Drame"
+    ],
+    "studio": "Fuji TV / Manglobe",
+    "plot": "La vie de la jeune Fû, serveuse dans un salon de thé, est bouleversée quand elle croise le chemin d’un vagabond un peu sauvage, Mugen, et d’un mystérieux rônin, Jin. Elle voit très vite en eux une échappatoire à sa vie morose et leur propose un marché alors qu’ils sont sur le point d’être exécutés par l’administrateur local : elle promet de leur sauver la vie s’ils acceptent de voyager à ses côtés pour retrouver le mystérieux « samouraï qui sent le tournesol ».",
+    "poster": "images/"
   },
   {
     "title": "Serial Experiments Lain",
     "year": 1998,
     "seasons": 1,
-    "episodes": 13
+    "episodes": 13,
+    "genres": [
+      "Animation",
+      "Drame",
+      "Science-Fiction",
+      "Mystère"
+    ],
+    "studio": "TV Tokyo / Pioneer LDC / Triangle Staff",
+    "plot": "Jeune lycéenne renfermée et taciturne, Lain Iwakura est confrontée au suicide inexpliqué de Chisa Yomoda, une camarade de classe. Peu de temps après, voilà que Lain reçoit un e-mail provenant de Chisa. Celle-ci lui annonce qu'elle est vivante dans le Wired, que seul son corps est mort et qu'elle a rencontré Dieu. Lain décide alors de se connecter au Wired, le net du futur… Elle va ainsi entendre parler des Knights, une bande de hackers étranges, et pénétrer dans un monde qui va engendrer de multiples questions, au détour d'événements et de rencontres glauques…",
+    "poster": "images/"
   },
   {
     "title": "Le cœur a ses raisons",
     "year": 2005,
     "seasons": 3,
-    "episodes": 39
+    "episodes": 39,
+    "genres": [
+      "Soap",
+      "Drame",
+      "Comédie"
+    ],
+    "studio": "TVA / Zone3",
+    "plot": "À la mort du patriarche, les deux héritiers de la famille Montgomery, les jumeaux Brett et Brad, se déchirent pour prendre le contrôle de l'empire familial. Amours, passions, trahisons, meurtres et complots rythment le quotidien des habitants de Saint-Andrews...",
+    "poster": "images/"
   },
   {
     "title": "The Deuce",
     "year": 2017,
     "seasons": 2,
-    "episodes": 11
+    "episodes": 11,
+    "genres": [
+      "Drame",
+      "Crime"
+    ],
+    "studio": "HBO / Blown Deadline Productions",
+    "plot": "Une chronique du Brooklyn des années 1978 et 1979, dans ce quartier si particulier de New York, où le punk, le disco et le porno sont en bonne place.",
+    "poster": "images/"
   },
   {
     "title": "Kaamelott",
     "year": 2005,
     "seasons": 1,
-    "episodes": 100
+    "episodes": 100,
+    "genres": [
+      "Comédie",
+      "Drame"
+    ],
+    "studio": "M6 / Calt Production / Dies Irae / Shortcom",
+    "plot": "Ve siècle, île de Bretagne. Alors que l'Empire romain s'effondre et que le christianisme s'impose peu à peu face aux dieux païens, le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur ; entouré de ses fidèles chevaliers, il s'attelle à la mission que les Dieux lui ont confié : rechercher le Saint Graal. Mais cette quête s'annonce plus que difficile, car Arthur est très mal entouré. Ses chevaliers de la Table Ronde sont un faible renfort contre les défis qui se dressent sur la route : peureux, naïfs, stupides ou au contraire violents, archaïques et désordonnés, les troupes de Bretagne ne comprennent pas l'enjeu de la quête du Graal et peinent à se rendre utiles. L'entourage familial du roi n'est guère plus sensé : son quotidien déjà bien chargé est parsemé de conflits avec sa femme Guenièvre ou sa belle-famille.",
+    "poster": "images/"
   },
   {
     "title": "The Morning Show",
     "year": 2019,
     "seasons": 1,
-    "episodes": 6
+    "episodes": 6,
+    "genres": [
+      "Drame"
+    ],
+    "studio": "Apple TV+ / Echo Films / Hello Sunshine / Media Res / Bad Attitude Entertainment / Kerry Ehrin Productions / Red Shoes Pictures",
+    "plot": "Portrait sans concession des coulisses d'une matinale télé aux États-Unis, où l’ego et les ambitions génèrent des tensions au sein de l'équipe. Parmi ces personnes qui aident l'Amérique à se réveiller, deux femmes tentent de tirer leur épingle du jeu dans ce milieu impitoyable.",
+    "poster": "images/"
   },
   {
     "title": "Les Soprano",
     "year": 1999,
     "seasons": 4,
-    "episodes": 60
+    "episodes": 60,
+    "genres": [
+      "Drame"
+    ],
+    "studio": "HBO",
+    "plot": "Chef de la mafia et père de famille, Tony Soprano confie ses angoisses au Dr Jennifer Melfi, son psychiatre.",
+    "poster": "images/Les%20Soprano%20%281999%29-POSTER.thumb.jpg"
   },
   {
     "title": "Twin Peaks",
     "year": 1990,
     "seasons": 1,
-    "episodes": 15
+    "episodes": 15,
+    "genres": [
+      "Drame",
+      "Mystère"
+    ],
+    "studio": "ABC / Showtime / Spelling Entertainment / Lynch / Frost Productions / Propaganda Films",
+    "plot": "Un meurtre a été commis à Twin Peaks, une petite bourgade de l'État de Washington en apparence tranquille. La jeune Laura Palmer est retrouvée morte nue au bord d'un lac, enveloppée dans du plastique. L'agent spécial du FBI, Dale Cooper, envoyé sur place pour démasquer le coupable, mène l'enquête avec le soutien du shérif local, Harry Truman. Ces investigations les amènent à révéler au grand jour les sombres secrets des uns et des autres. Pendant ce temps, d'inquiétants phénomènes se produisent...",
+    "poster": "images/"
   },
   {
     "title": "The Young Pope",
     "year": 2016,
     "seasons": 1,
-    "episodes": 10
+    "episodes": 10,
+    "genres": [
+      "Drame"
+    ],
+    "studio": "Sky Atlantic / Mediapro / Wildside / Haut et Court",
+    "plot": "L'ascension de Pie XIII, né Lenny Belardo, le premier Pape italo-américain de l'Histoire. Cet homme au pouvoir immense est doté d'une personnalité complexe et contradictoire. D'un conservatisme fleurant l’obscurantisme le plus archaïque, il se révèle pourtant éperdu de compassion envers les plus pauvres et les plus faibles. Et malgré les trahisons de son entourage et sa peur de l'abandon, y compris de son propre Dieu, il n'hésitera pas à se battre avec la plus grande ferveur, en franchissant plus d'une fois les limites édictées par les pauvres mortels.\n\nUn homme charismatique et imprévisible, au pouvoir immense...",
+    "poster": "images/"
   },
   {
     "title": "Les Aventures de Tintin",
     "year": 1991,
     "seasons": 3,
-    "episodes": 21
+    "episodes": 21,
+    "genres": [
+      "Animation",
+      "Action",
+      "Familial"
+    ],
+    "studio": "France 3 / Ellipsanime Productions / Nelvana",
+    "plot": "Grand reporter, Tintin, accompagné de son fidèle ami à quatre pattes Milou, enquête sur divers événements de par le monde. Ses reportages lui vaudront de rencontrer de fidèles amis : le colérique Capitaine Haddock, le talentueux (mais sourd) professeur Tournesol et les maladroits détectives Dupont et Dupond, qui l'accompagneront ensuite dans ses aventures...",
+    "poster": "images/Les%20Aventures%20de%20Tintin%20%281991%29-POSTER.thumb.jpg"
   },
   {
     "title": "Blood Machines",
     "year": 2020,
     "seasons": 1,
-    "episodes": 3
+    "episodes": 3,
+    "genres": [
+      "Action",
+      "Science-Fiction"
+    ],
+    "studio": "Shudder / Logical Pictures",
+    "poster": "images/"
   },
   {
     "title": "Il était une fois… les Découvreurs",
     "year": 1994,
     "seasons": 1,
-    "episodes": 17
+    "episodes": 17,
+    "genres": [
+      "Documentaire",
+      "Animation",
+      "Familial"
+    ],
+    "studio": "Canal+ / Procidis",
+    "plot": "« Il était une fois... les Découvreurs » raconte l’histoire passionnante des grandes découvertes et de ceux qui les ont faites, façonnant ainsi le monde pour en faire ce qu’il est aujourd’hui. De l’écriture chinoise à l’invention de l’automobile en passant par l’électricité, les vaccins, les mesures, etc, Maestro nous guide à travers les siècles à la rencontre des plus grands savants...",
+    "poster": "images/Il%20%C3%A9tait%20une%20fois%E2%80%A6%20les%20D%C3%A9couvreurs%20%281994%29-POSTER.thumb.jpg"
   },
   {
     "title": "Larry et son nombril",
     "year": 2000,
     "seasons": 2,
-    "episodes": 20
+    "episodes": 20,
+    "genres": [
+      "Comédie"
+    ],
+    "studio": "HBO",
+    "plot": "Le moindre petit imprévu suffit à transformer en cauchemar la vie sereine que mène le producteur hollywoodien David Larry aux côtés de son épouse Cheryl.",
+    "poster": "images/"
   },
   {
     "title": "La Quatrième dimension",
     "year": 1959,
     "seasons": 2,
-    "episodes": 25
+    "episodes": 25,
+    "genres": [
+      "Science-Fiction",
+      "Mystère",
+      "Drame"
+    ],
+    "studio": "CBS / Cayuga Productions / CBS Productions",
+    "plot": "Nous sommes transportés dans une autre dimension, une dimension faite non seulement de paysages et de sons, mais surtout d'esprits. Un voyage dans une contrée sans fin dont les frontières sont notre imagination. Un voyage au bout des ténèbres où il n'y a qu'une destination : la Quatrième Dimension.",
+    "poster": "images/"
   }
 ]
